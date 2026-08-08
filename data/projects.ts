@@ -14,7 +14,7 @@ export const projects: Project[] = [
     title: "Portfolio Website",
     description:
       "A modern portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.",
-    image: "/images/p1.jpg",
+    image: "/images/p1.png",
     github: "https://github.com/BrishavMondal/My-Protfolio",
     live: "https://my-protfolio-seven-eta.vercel.app/",
     technologies: ["Next.js", "TypeScript", "Tailwind"],
