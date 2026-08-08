@@ -28,7 +28,7 @@ export const experiences: Experience[] = [
   {
     id: 2,
     role: "CSE Student",
-    company: "University",
+    company: "American International University Bangladesh",
     period: "2022 – Present",
     description:
       "Developed academic projects in AI, machine learning, and full-stack development.",
