@@ -31,7 +31,7 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: "Deepfake Detection",
+    title: "News Portal API",
     description:
       "A News Portal API that using .NET Core and Entity Framework to manage news articles and user authentication.",
     image: "/images/project3.jpg",
