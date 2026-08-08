@@ -20,7 +20,7 @@ export default function Projects() {
 
           <p className="mt-6 max-w-2xl text-lg text-gray-400">
             A selection of projects showcasing my experience in
-            full-stack development, UI engineering, and AI.
+            full-stack development, UI engineering and AI.
           </p>
         </FadeUp>
 

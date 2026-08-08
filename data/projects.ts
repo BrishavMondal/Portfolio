@@ -15,8 +15,8 @@ export const projects: Project[] = [
     description:
       "A modern portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.",
     image: "/images/project1.jpg",
-    github: "https://github.com/yourusername/portfolio",
-    live: "https://portfolio.vercel.app",
+    github: "https://github.com/BrishavMondal/My-Protfolio",
+    live: "https://my-protfolio-seven-eta.vercel.app/",
     technologies: ["Next.js", "TypeScript", "Tailwind"],
   },
   {
@@ -25,7 +25,7 @@ export const projects: Project[] = [
     description:
       "Task management application with CRUD, filters, search, and local storage.",
     image: "/images/project2.jpg",
-    github: "https://github.com/yourusername/task-manager",
+    github: "https://github.com/BrishavMondal/task-manager",
     live: "https://task.vercel.app",
     technologies: ["React", "TypeScript", "CSS"],
   },
@@ -33,10 +33,10 @@ export const projects: Project[] = [
     id: 3,
     title: "Deepfake Detection",
     description:
-      "AI-powered deepfake image detection using PyTorch and computer vision.",
+      "A News Portal API that using .NET Core and Entity Framework to manage news articles and user authentication.",
     image: "/images/project3.jpg",
-    github: "https://github.com/yourusername/deepfake",
+    github: "https://github.com/BrishavMondal/News-Portal-API",
     live: "#",
-    technologies: ["Python", "PyTorch", "OpenCV"],
+    technologies: ["C#", "ASP.NET", "Entity Framework", "SQL Server", "REST API",".NET Core"],
   },
 ];
